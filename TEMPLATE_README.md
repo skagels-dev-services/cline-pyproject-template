@@ -87,6 +87,17 @@ uv run pre-commit install
 - `.env.example` - Environment variables template
 - `.github/workflows/ci.yml` - GitHub Actions CI/CD (Python 3.10-3.12)
 
+## Source References
+
+### .clinerules
+The `.clinerules/` were curated from the [cline/prompts](https://github.com/cline/prompts) repository.
+
+- **GitHub**: https://github.com/cline/prompts/tree/main/.clinerules
+- **Raw URL**: https://raw.githubusercontent.com/cline/prompts/main/.clinerules/
+
+### memory_bank
+The `memory_bank/` files were created specifically for this template to enable context persistence across Cline sessions.
+
 ## Customization
 
 1. Update `memory_bank/projectBrief.md` with your project details
